@@ -12,13 +12,6 @@ My goal is to build a strong foundation in Python, improve my programming and pr
 ~ Build small projects using Python.
 ~ Prepare for future learning in AI/ML and Data Science.
 
-📚 Learning Resource
-Course: Python Programming – Sheryians Coding School
-
-Platform: YouTube
-
-Level: Beginner
-
 Every commit represents one more step towards becoming a better developer.
 
 ⭐ Learning, building, and improving — one line of Python at a time! 🐍
