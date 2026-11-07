@@ -1,0 +1,2 @@
+name=input("Enter your name: ") #to take input from the user we use the input function
+print(f"Hello {name}, welcome to the world of Python programming!") #f string is used to format the string and print the name entered by the user
