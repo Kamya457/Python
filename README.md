@@ -14,7 +14,9 @@ My goal is to build a strong foundation in Python, improve my programming and pr
 
 📚 Learning Resource
 Course: Python Programming – Sheryians Coding School
+
 Platform: YouTube
+
 Level: Beginner
 
 Every commit represents one more step towards becoming a better developer.
